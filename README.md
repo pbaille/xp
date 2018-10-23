@@ -1,14 +1,19 @@
 # xp
 
-A Clojure library designed to ... well, that part is up to you.
+This repo contains some language experiments implemented in clojure
+So much influences... fexprs, concatenative langs etc...
+All comments are welcomed, i'm a selftaught programmer eager to learn where i'm wrong
 
-## Usage
+## mud
 
-FIXME
+A redo of clojure basic features with genericity and extensibility in mind
+Faster than 'fun' and with lots of comments.
 
-## License
+## fun
 
-Copyright © 2018 FIXME
+A dynamic object system, that aim to be as functionally pure as possible
+It is slow but has a compelling syntax, also is very flexible and extensible
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+
+
+
