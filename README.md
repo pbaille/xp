@@ -7,12 +7,16 @@ All comments are welcomed, i'm a selftaught programmer eager to learn where i'm 
 ## mud
 
 A redo of clojure basic features with genericity and extensibility in mind
-Faster than 'fun' and with lots of comments.
+core.clj can be read as a code walk with exemples and comments along the code
+the mud.boot package contains some low level utils that may be of interest (generic functions, minimal type system)
 
 ## fun
 
 A dynamic object system, that aim to be as functionally pure as possible
 It is slow but has a compelling syntax, also is very flexible and extensible
+
+fn.clj defines functions introspection utilities
+km.clj defines some nice API around maps with keyword keys (named keymaps)
 
 
 
